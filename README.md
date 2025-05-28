@@ -4,4 +4,4 @@ this repo is the code implementation for course "Advanced Machine Learning" repo
 ## Environment Setting 
 The project is built on PyTorch.
 1. Conda setup
-`conda create
+`conda create`
