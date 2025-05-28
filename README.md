@@ -18,11 +18,11 @@ The project is built on PyTorch and Conda.
 2. Run test instances, basically evaluating samples from one of the datasets  
 `python Test.py`
 3. Results of the test  
-`Begin Time: 2025-05-28 15:17:56.205341  
-测试样本中的前十个样例标签如下： tensor([4, 6, 5, 4, 1, 1, 3, 3, 2, 1], device='cuda:0')  
-Testing_accuracy: 96.57142857142857  
-Test_macro_precision: 96.9387755102041 Test_macro_recall: 96.57142857142857 Test_macro_f1_score: 96.54639947452725  
-End Time: 2025-05-28 15:17:56.610228`  
+`Begin Time: 2025-05-28 15:17:56.205341  <br>
+测试样本中的前十个样例标签如下： tensor([4, 6, 5, 4, 1, 1, 3, 3, 2, 1], device='cuda:0')  <br>
+Testing_accuracy: 96.57142857142857  <br>
+Test_macro_precision: 96.9387755102041 Test_macro_recall: 96.57142857142857 Test_macro_f1_score: 96.54639947452725  <br>
+End Time: 2025-05-28 15:17:56.610228` 
 
 ## Run Model Training
 1. Go to the project directory  
